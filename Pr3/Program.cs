@@ -11,20 +11,20 @@ class Program
         Book book = new Book(bookTitle, authorName, bookContent);
         book.Show();
 
-        Console.WriteLine("Хотите изменить имя автора? (да/нет)");
+        Console.WriteLine("Хочете змінити автора? (так/ні)");
         string response = Console.ReadLine();
 
-        if (response.ToLower() == "да")
+        if (response.ToLower() == "так")
         {
-            Console.WriteLine("Введите новое имя автора:");
+            Console.WriteLine("Введіть нове ім'я автора:");
             string newAuthorName = Console.ReadLine();
             authorName.AuthorFullName = newAuthorName;
-            Console.WriteLine("Имя автора изменено успешно.");
+            Console.WriteLine("Ім'я автора змінено.");
             book.Show();
         }
         else
         {
-            Console.WriteLine("Имя автора осталось без изменений.");
+            Console.WriteLine("Ім'я автора не було змінено");
         }
     }
 }
