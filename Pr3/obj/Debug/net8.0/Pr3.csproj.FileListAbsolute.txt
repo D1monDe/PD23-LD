@@ -1,0 +1,15 @@
+/Users/dimitrylysenko/Documents/C#/Pr3/bin/Debug/net8.0/Pr3
+/Users/dimitrylysenko/Documents/C#/Pr3/bin/Debug/net8.0/Pr3.deps.json
+/Users/dimitrylysenko/Documents/C#/Pr3/bin/Debug/net8.0/Pr3.runtimeconfig.json
+/Users/dimitrylysenko/Documents/C#/Pr3/bin/Debug/net8.0/Pr3.dll
+/Users/dimitrylysenko/Documents/C#/Pr3/bin/Debug/net8.0/Pr3.pdb
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.AssemblyInfoInputs.cache
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.AssemblyInfo.cs
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.csproj.CoreCompileInputs.cache
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.sourcelink.json
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.dll
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/refint/Pr3.dll
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.pdb
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/Pr3.genruntimeconfig.cache
+/Users/dimitrylysenko/Documents/C#/Pr3/obj/Debug/net8.0/ref/Pr3.dll
